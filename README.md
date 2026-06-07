@@ -1,19 +1,19 @@
 # homebrew-pomodoro
 
-Homebrew tap for Dzenn.
+Homebrew tap for Qoma.
 
 ## Install
 
 ```sh
 brew tap dzenn-app/pomodoro
-brew install --cask dzenn-pomodoro
+brew install --cask qoma
 ```
 
 ## Update
 
 ```sh
 brew update
-brew upgrade --cask dzenn-pomodoro
+brew upgrade --cask qoma
 ```
 
 ## Notes
