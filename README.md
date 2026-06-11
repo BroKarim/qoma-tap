@@ -1,11 +1,11 @@
-# homebrew-pomodoro
+# homebrew-qoma
 
 Homebrew tap for Qoma.
 
 ## Install
 
 ```sh
-brew tap BroKarim/qoma-tap
+brew tap BroKarim/qoma
 brew install --cask qoma
 ```
 
