@@ -5,7 +5,7 @@ Homebrew tap for Qoma.
 ## Install
 
 ```sh
-brew tap dzenn-app/pomodoro
+brew tap BroKarim/qoma-tap
 brew install --cask qoma
 ```
 
